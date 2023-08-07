@@ -416,7 +416,7 @@ then set the desired styles for .card-img. */
 
 /* Style the back side */
 .flip-card-back {
-  background-color: #ff5e00;;
+  background-color: #ff5e00c0;;
   color: white;
   transform: rotateY(180deg);
 }
